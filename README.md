@@ -5,7 +5,7 @@ support my github channel
 
 Register Here : [PIXELVERSE](https://t.me/pixelversexyzbot?start=6057140648)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sanscryptox)
+Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
 
 
 ## Tutorial
@@ -27,4 +27,5 @@ Install with python
 - Auto claim
 - Auto checkin daily
 - Auto upgrade pet
+- Auto claim combo
 - Multi Account
